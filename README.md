@@ -1,2 +1,2 @@
 # TestSite
-A  sandbox used by me to test my WebD skills
+A  sandbox used by me to test my WebD thingies
