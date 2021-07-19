@@ -1,0 +1,33 @@
+p{
+    font-family: calibri;
+    font-size: 150%;
+}
+#title{
+    text-align: center;
+    font-family: roboto;
+    font-size: 200%;
+    margin: 2%;
+    font-weight: 300;
+}
+#main_para{
+    font-family: calibri;
+}
+body{
+    background-color: #f9f9f9;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#quote{
+    font-size: 200%;
+    text-align: center;
+    font-family: roboto;
+    font-weight: 300;
+    #margin-right: 8%;
+}
+.heading{
+    font-size: 150%;
+    font-family: roboto;
+    font-weight: 400;
+    margin-bottom: auto;
+    
+}
