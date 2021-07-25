@@ -1,2 +1,2 @@
 # TestSite
-A  sandbox used by me to practice web developement.
+A  sandbox used by me.
